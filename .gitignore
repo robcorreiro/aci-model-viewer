@@ -1,0 +1,5 @@
+backup/
+.DS_Store
+*.pyc
+bower_components/
+data/
